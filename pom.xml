@@ -19,7 +19,7 @@
                         <param>com.asa.ShapeClassifier</param>
                     </targetClasses>
                     <targetTests>
-                        <param>com.asa.BlackBoxTester</param>
+                        <param>com.asa.*</param>
                     </targetTests>
                 </configuration>
             </plugin>

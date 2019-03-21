@@ -93,7 +93,7 @@ public class DoubleTester {
 
     @Test
     public void test0017() {
-        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Ellipse,Small,Yes,1,1"));
+        assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Ellipse,Small,Yes,1,1"));
     }
 
     @Test
@@ -323,12 +323,12 @@ public class DoubleTester {
 
     @Test
     public void test0063() {
-        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Rectangle,Large,Yes,26,26,26,26"));
+        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Square,Large,Yes,26,26,26,26"));
     }
 
     @Test
     public void test0064() {
-        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Rectangle,Small,No,25,25,25,25"));
+        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Square,Small,No,25,25,25,25"));
     }
 
     @Test

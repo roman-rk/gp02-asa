@@ -162,7 +162,7 @@ public class TripleTester {
 
     @Test
     public void test0031() {
-        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Ellipse,Large,No,4095,4095"));
+        assertEquals("Yes", new com.asa.ShapeClassifier().evaluateGuess("Circle,Large,No,4095,4095"));
     }
 
     @Test
