@@ -1,4 +1,4 @@
-
+package com.asa;
 
 public class ShapeClassifier {
 	private int badGuesses; 

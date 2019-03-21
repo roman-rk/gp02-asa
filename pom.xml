@@ -14,6 +14,14 @@
                 <groupId>org.pitest</groupId>
                 <artifactId>pitest-maven</artifactId>
                 <version>1.4.6</version>
+                <configuration>
+                    <targetClasses>
+                        <param>com.asa.ShapeClassifier</param>
+                    </targetClasses>
+                    <targetTests>
+                        <param>com.asa.BlackBoxTester</param>
+                    </targetTests>
+                </configuration>
             </plugin>
         </plugins>
     </build>
