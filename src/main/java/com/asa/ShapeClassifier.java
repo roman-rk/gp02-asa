@@ -106,7 +106,7 @@ public class ShapeClassifier {
 
     // P = 2 * PI *r
     private double calculateCirclePerimeter(int r) {
-        return (2 * Math.PI * r);
+        return (Math.PI * r);
     }
 
     // P = 4 * s

@@ -5,3 +5,4 @@ target
 venv
 *.testona
 TestGen
+src/test/java/com/asa/ForRustam.java
