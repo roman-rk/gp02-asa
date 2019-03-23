@@ -4,15 +4,15 @@ import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class OneTester {
+public class TestShapeClassifierSingle {
     @Test
     public void test0000() {
-        assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Circle,Small,Yes,16,16,1,1"));
+        assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Circle,Small,Yes,32,32,1,1"));
     }
 
     @Test
     public void test0001() {
-        assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Ellipse,Large,No,15,15"));
+        assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Ellipse,Large,No,31,31"));
     }
 
     @Test
@@ -64,5 +64,4 @@ public class OneTester {
     public void test0011() {
         assertEquals("No", new com.asa.ShapeClassifier().evaluateGuess("Square,Large,No,1,26,4095,4095"));
     }
-
 }
