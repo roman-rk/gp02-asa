@@ -1,0 +1,1129 @@
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 13:45:56 Russia TZ 2 Standard Time
+
+
+cli: Processing program: gp02-asa
+
+cli: Processing C:\Users\xenil\Desktop\gp02-asa\src\main\java\com\asa\ShapeClassifier.java
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\javapar...
+
+McCabe IQ version: 8.5.0 - 20161023
+INFO-javapar: 1015.304: Can't find JREHOME setting. Using JRE bundled with McCabe..
+$1%
+$2%
+$3%
+$4%
+$55%
+$56%
+$58%
+$61%
+$63%
+$69%
+$75%
+$77%
+$80%
+$82%
+$85%
+$91%
+$99%
+$100%
+$Parsed 204 lines
+$Writing Overriden Methods
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\grafint...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Converting: 57%
+$Converting: 59%
+$Converting: 60%
+$Converting: 62%
+$Converting: 63%
+$Converting: 66%
+$Converting: 73%
+$Converting: 76%
+$Converting: 79%
+$Converting: 82%
+$Converting: 85%
+$Converting: 91%
+$Converting: 100%
+$ 
+$ 
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst\ShapeClassifier.java
+McCabe IQ version: 8.5.0 - 20161023
+$Integrating 'source files'...
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\gra2sc...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Building class chart...
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\gra2sc...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Building battlemap...
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\tracerec...
+
+McCabe IQ version: 8.5.0 - 20161023
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 5%
+$Computing Module metrics: 7%
+$Computing Module metrics: 14%
+$Computing Module metrics: 21%
+$Computing Module metrics: 28%
+$Computing Module metrics: 35%
+$Computing Module metrics: 42%
+$Computing Module metrics: 50%
+$Computing Module metrics: 57%
+$Computing Module metrics: 64%
+$Computing Module metrics: 71%
+$Computing Module metrics: 78%
+$Computing Module metrics: 85%
+$Computing Module metrics: 92%
+$Computing metrics for gp02-asa: 10%
+$Calculating metrics for class 'ShapeClassifier'...
+$Computing Program metrics: 6%
+$Computing Program metrics: 12%
+$Computing Program metrics: 18%
+$Computing Program metrics: 25%
+$Computing Program metrics: 31%
+$Computing Program metrics: 37%
+$Computing Program metrics: 43%
+$Computing Program metrics: 50%
+$Computing Program metrics: 56%
+$Computing Program metrics: 62%
+$Computing Program metrics: 68%
+$Computing Program metrics: 75%
+$Computing Program metrics: 81%
+$Computing Program metrics: 87%
+$Computing Program metrics: 93%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\mkinst5...
+
+McCabe IQ version: 8.5.0 - 20161023
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst\com\mccabe\Client.java
+$ 
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst\com\mccabe\PathVec_gp02_asa.java
+cli: Export complete.
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 10%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$ 
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 13:46:04 Russia TZ 2 Standard Time
+
+
+cli: Processing program: gp02-asa
+$ 
+Writing metrics definitions...
+$Writing metrics definitions: 91%
+Writing file and directory level information...
+Writing metrics values...
+Copying files from C:\McCabe\IQ\8.5\publish_spec\standard\ to C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\...
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\alldir-list.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\allfile-list.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\asl.html
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\content.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\asl.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\generalstyles.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\modalbox.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\proto.menu.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\sortabletable.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css\tabber.css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\css
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\detailextractor.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\detailheading.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\dirfile-list.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\general-detail.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\blank.png
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\downsimple.png
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\green16.png
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\mccabe_iq.gif
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\mccabe_iq.ico
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\spinner.gif
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images\upsimple.png
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\images
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\index.xsl
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\asl.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\generalscripts.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Async.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Base.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Color.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\DateTime.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\DOM.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Format.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Iter.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Logging.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\LoggingPane.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\MochiKit.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\MockDOM.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Signal.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Test.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\Visual.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit\__package__.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\mochikit
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\modalbox\modalbox.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\modalbox
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\Base.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\Canvas.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\dummy.svg
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\EasyPlot.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\excanvas.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\Layout.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\PlotKit.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\PlotKit_Packed.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\SVG.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\SweetCanvas.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit\SweetSVG.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\plotkit
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\protomenu\proto.menu.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\protomenu
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\prototype\prototype.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\prototype
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\builder.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\controls.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\dragdrop.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\effects.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\scriptaculous.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\slider.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\sound.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous\unittest.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\scriptaculous
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\localecomparesorttype.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\numberksorttype.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\percentsorttype.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\sortabletable.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\stringbuilder.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable\uscurrencysorttype.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\sortabletable
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\tabber\tabber.js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js\tabber
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\js
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\publish.xml
+$cli: Exporting C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\riskmodules.xsl
+Executing Transforms...
+Generating main page...
+$cli: Running XSLT transform (xmlFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\metrics.xml  xslFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\index.xsl  outputFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\index.html)...
+Generating program index...
+Calculating program level summary...
+Generating directory index...
+Calculating directory level summaries...
+  Directory <unnamed> (1 of 1)...
+Calculating file level summaries...
+  File ShapeClassifier.java (1 of 1)...
+$cli: Running XSLT transform (xmlFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\metrics.xml  xslFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\content.xsl  outputFile:C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\content.html)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\content.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\content.html)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\index.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\alldir-list.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\allfile-list.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\detailextractor.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\detailheading.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\dirfile-list.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\general-detail.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\riskmodules.xsl)...
+$cli: Running delete command (C:\McCabe\IQ\8.5\Projects\ShapeClassifier\publish\gp02-asa\publish.xml)...
+cli: Publish complete.
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 10%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$
+McCabe IQ version: 8.5.0 - 20161023
+$Please wait...
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cli...
+
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 13:48:24 Russia TZ 2 Standard Time
+
+
+cli: Processing program: gp02-asa
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\recolor...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 10%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$ 
+$ 
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 13:48:39 Russia TZ 2 Standard Time
+
+
+cli: Processing program: gp02-asa
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\recolor...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 10%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cfgwiz...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cfgwiz...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cfgwiz...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\printjpg...
+
+McCabe IQ version: 8.5.0 - 20161023
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\printbmp...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cjpeg...
+
+$ 
+McCabe IQ version: 8.5.0 - 20161023
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\cli.exe...
+
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 15:01:06 Russia TZ 2 Standard Time
+
+
+cli: Processing program: qwerty
+
+cli: Processing C:\Users\xenil\Desktop\gp02-asa\src\test\java\com\asa\TestShapeClassifierTriple.java
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\javapar...
+
+McCabe IQ version: 8.5.0 - 20161023
+INFO-javapar: 1015.304: Can't find JREHOME setting. Using JRE bundled with McCabe..
+$0%
+$1%
+$2%
+$3%
+$4%
+$5%
+$6%
+$7%
+$8%
+$9%
+$10%
+$11%
+$12%
+$13%
+$14%
+$15%
+$16%
+$17%
+$18%
+$19%
+$20%
+$21%
+$22%
+$23%
+$24%
+$25%
+$26%
+$27%
+$28%
+$29%
+$30%
+$31%
+$32%
+$33%
+$34%
+$35%
+$36%
+$37%
+$38%
+$39%
+$40%
+$41%
+$42%
+$43%
+$44%
+$45%
+$46%
+$47%
+$48%
+$49%
+$50%
+$51%
+$52%
+$53%
+$54%
+$55%
+$56%
+$57%
+$58%
+$59%
+$60%
+$61%
+$62%
+$63%
+$64%
+$65%
+$66%
+$67%
+$68%
+$69%
+$70%
+$71%
+$72%
+$73%
+$74%
+$75%
+$76%
+$77%
+$78%
+$79%
+$80%
+$81%
+$82%
+$83%
+$84%
+$85%
+$86%
+$87%
+$88%
+$89%
+$90%
+$91%
+$92%
+$93%
+$94%
+$95%
+$96%
+$97%
+$98%
+$99%
+$100%
+$Parsed 1314 lines
+$Writing Overriden Methods
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\grafint...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Converting: 1%
+$Converting: 2%
+$Converting: 3%
+$Converting: 4%
+$Converting: 5%
+$Converting: 6%
+$Converting: 7%
+$Converting: 8%
+$Converting: 9%
+$Converting: 10%
+$Converting: 11%
+$Converting: 12%
+$Converting: 13%
+$Converting: 14%
+$Converting: 15%
+$Converting: 16%
+$Converting: 17%
+$Converting: 18%
+$Converting: 19%
+$Converting: 20%
+$Converting: 21%
+$Converting: 22%
+$Converting: 23%
+$Converting: 24%
+$Converting: 25%
+$Converting: 26%
+$Converting: 27%
+$Converting: 28%
+$Converting: 29%
+$Converting: 30%
+$Converting: 31%
+$Converting: 32%
+$Converting: 33%
+$Converting: 34%
+$Converting: 35%
+$Converting: 36%
+$Converting: 37%
+$Converting: 38%
+$Converting: 39%
+$Converting: 40%
+$Converting: 41%
+$Converting: 42%
+$Converting: 43%
+$Converting: 44%
+$Converting: 45%
+$Converting: 46%
+$Converting: 47%
+$Converting: 48%
+$Converting: 49%
+$Converting: 50%
+$Converting: 51%
+$Converting: 52%
+$Converting: 53%
+$Converting: 54%
+$Converting: 55%
+$Converting: 56%
+$Converting: 57%
+$Converting: 58%
+$Converting: 59%
+$Converting: 60%
+$Converting: 61%
+$Converting: 62%
+$Converting: 63%
+$Converting: 64%
+$Converting: 65%
+$Converting: 66%
+$Converting: 67%
+$Converting: 68%
+$Converting: 69%
+$Converting: 70%
+$Converting: 71%
+$Converting: 72%
+$Converting: 73%
+$Converting: 74%
+$Converting: 75%
+$Converting: 76%
+$Converting: 77%
+$Converting: 78%
+$Converting: 79%
+$Converting: 80%
+$Converting: 81%
+$Converting: 82%
+$Converting: 83%
+$Converting: 84%
+$Converting: 85%
+$Converting: 86%
+$Converting: 87%
+$Converting: 88%
+$Converting: 89%
+$Converting: 90%
+$Converting: 91%
+$Converting: 92%
+$Converting: 93%
+$Converting: 94%
+$Converting: 95%
+$Converting: 96%
+$Converting: 97%
+$Converting: 98%
+$Converting: 99%
+$Converting: 100%
+$ 
+$ 
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\qwerty_inst\TestShapeClassifierTriple.java
+McCabe IQ version: 8.5.0 - 20161023
+$Integrating 'source files'...
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\gra2sc...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Building class chart...
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\gra2sc...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Building battlemap...
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\tracerec...
+
+McCabe IQ version: 8.5.0 - 20161023
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for qwerty: 5%
+$Computing Module metrics: 1%
+$Computing Module metrics: 2%
+$Computing Module metrics: 3%
+$Computing Module metrics: 4%
+$Computing Module metrics: 5%
+$Computing Module metrics: 6%
+$Computing Module metrics: 7%
+$Computing Module metrics: 8%
+$Computing Module metrics: 9%
+$Computing Module metrics: 10%
+$Computing Module metrics: 11%
+$Computing Module metrics: 12%
+$Computing Module metrics: 13%
+$Computing Module metrics: 14%
+$Computing Module metrics: 15%
+$Computing Module metrics: 16%
+$Computing Module metrics: 17%
+$Computing Module metrics: 18%
+$Computing Module metrics: 19%
+$Computing Module metrics: 20%
+$Computing Module metrics: 21%
+$Computing Module metrics: 22%
+$Computing Module metrics: 23%
+$Computing Module metrics: 24%
+$Computing Module metrics: 25%
+$Computing Module metrics: 26%
+$Computing Module metrics: 27%
+$Computing Module metrics: 28%
+$Computing Module metrics: 29%
+$Computing Module metrics: 30%
+$Computing Module metrics: 31%
+$Computing Module metrics: 32%
+$Computing Module metrics: 33%
+$Computing Module metrics: 34%
+$Computing Module metrics: 35%
+$Computing Module metrics: 36%
+$Computing Module metrics: 37%
+$Computing Module metrics: 38%
+$Computing Module metrics: 39%
+$Computing Module metrics: 40%
+$Computing Module metrics: 41%
+$Computing Module metrics: 42%
+$Computing Module metrics: 43%
+$Computing Module metrics: 44%
+$Computing Module metrics: 45%
+$Computing Module metrics: 46%
+$Computing Module metrics: 47%
+$Computing Module metrics: 48%
+$Computing Module metrics: 49%
+$Computing Module metrics: 50%
+$Computing Module metrics: 51%
+$Computing Module metrics: 52%
+$Computing Module metrics: 53%
+$Computing Module metrics: 54%
+$Computing Module metrics: 55%
+$Computing Module metrics: 56%
+$Computing Module metrics: 57%
+$Computing Module metrics: 58%
+$Computing Module metrics: 59%
+$Computing Module metrics: 60%
+$Computing Module metrics: 61%
+$Computing Module metrics: 62%
+$Computing Module metrics: 63%
+$Computing Module metrics: 64%
+$Computing Module metrics: 65%
+$Computing Module metrics: 66%
+$Computing Module metrics: 67%
+$Computing Module metrics: 68%
+$Computing Module metrics: 69%
+$Computing Module metrics: 70%
+$Computing Module metrics: 71%
+$Computing Module metrics: 72%
+$Computing Module metrics: 73%
+$Computing Module metrics: 74%
+$Computing Module metrics: 75%
+$Computing Module metrics: 76%
+$Computing Module metrics: 77%
+$Computing Module metrics: 78%
+$Computing Module metrics: 79%
+$Computing Module metrics: 80%
+$Computing Module metrics: 81%
+$Computing Module metrics: 82%
+$Computing Module metrics: 83%
+$Computing Module metrics: 84%
+$Computing Module metrics: 85%
+$Computing Module metrics: 86%
+$Computing Module metrics: 87%
+$Computing Module metrics: 88%
+$Computing Module metrics: 89%
+$Computing Module metrics: 90%
+$Computing Module metrics: 91%
+$Computing Module metrics: 92%
+$Computing Module metrics: 93%
+$Computing Module metrics: 94%
+$Computing Module metrics: 95%
+$Computing Module metrics: 96%
+$Computing Module metrics: 97%
+$Computing Module metrics: 98%
+$Computing Module metrics: 99%
+$Computing metrics for qwerty: 10%
+$Calculating metrics for class 'TestShapeClassifierTriple'...
+$Computing Program metrics: 1%
+$Computing Program metrics: 2%
+$Computing Program metrics: 3%
+$Computing Program metrics: 4%
+$Computing Program metrics: 5%
+$Computing Program metrics: 6%
+$Computing Program metrics: 7%
+$Computing Program metrics: 8%
+$Computing Program metrics: 9%
+$Computing Program metrics: 10%
+$Computing Program metrics: 11%
+$Computing Program metrics: 12%
+$Computing Program metrics: 13%
+$Computing Program metrics: 14%
+$Computing Program metrics: 15%
+$Computing Program metrics: 16%
+$Computing Program metrics: 17%
+$Computing Program metrics: 18%
+$Computing Program metrics: 19%
+$Computing Program metrics: 20%
+$Computing Program metrics: 21%
+$Computing Program metrics: 22%
+$Computing Program metrics: 23%
+$Computing Program metrics: 24%
+$Computing Program metrics: 25%
+$Computing Program metrics: 26%
+$Computing Program metrics: 27%
+$Computing Program metrics: 28%
+$Computing Program metrics: 29%
+$Computing Program metrics: 30%
+$Computing Program metrics: 31%
+$Computing Program metrics: 32%
+$Computing Program metrics: 33%
+$Computing Program metrics: 34%
+$Computing Program metrics: 35%
+$Computing Program metrics: 36%
+$Computing Program metrics: 37%
+$Computing Program metrics: 38%
+$Computing Program metrics: 39%
+$Computing Program metrics: 40%
+$Computing Program metrics: 41%
+$Computing Program metrics: 42%
+$Computing Program metrics: 43%
+$Computing Program metrics: 44%
+$Computing Program metrics: 45%
+$Computing Program metrics: 46%
+$Computing Program metrics: 47%
+$Computing Program metrics: 48%
+$Computing Program metrics: 49%
+$Computing Program metrics: 50%
+$Computing Program metrics: 51%
+$Computing Program metrics: 52%
+$Computing Program metrics: 53%
+$Computing Program metrics: 54%
+$Computing Program metrics: 55%
+$Computing Program metrics: 56%
+$Computing Program metrics: 57%
+$Computing Program metrics: 58%
+$Computing Program metrics: 59%
+$Computing Program metrics: 60%
+$Computing Program metrics: 61%
+$Computing Program metrics: 62%
+$Computing Program metrics: 63%
+$Computing Program metrics: 64%
+$Computing Program metrics: 65%
+$Computing Program metrics: 66%
+$Computing Program metrics: 67%
+$Computing Program metrics: 68%
+$Computing Program metrics: 69%
+$Computing Program metrics: 70%
+$Computing Program metrics: 71%
+$Computing Program metrics: 72%
+$Computing Program metrics: 73%
+$Computing Program metrics: 74%
+$Computing Program metrics: 75%
+$Computing Program metrics: 76%
+$Computing Program metrics: 77%
+$Computing Program metrics: 78%
+$Computing Program metrics: 79%
+$Computing Program metrics: 80%
+$Computing Program metrics: 81%
+$Computing Program metrics: 82%
+$Computing Program metrics: 83%
+$Computing Program metrics: 84%
+$Computing Program metrics: 85%
+$Computing Program metrics: 86%
+$Computing Program metrics: 87%
+$Computing Program metrics: 88%
+$Computing Program metrics: 89%
+$Computing Program metrics: 90%
+$Computing Program metrics: 91%
+$Computing Program metrics: 92%
+$Computing Program metrics: 93%
+$Computing Program metrics: 94%
+$Computing Program metrics: 95%
+$Computing Program metrics: 96%
+$Computing Program metrics: 97%
+$Computing Program metrics: 98%
+$Computing Program metrics: 99%
+$Computing metrics for qwerty: 20%
+$Computing metrics for qwerty: 30%
+$Computing metrics for qwerty: 40%
+$Computing metrics for qwerty: 50%
+$Computing metrics for qwerty: 60%
+$Computing metrics for qwerty: 70%
+$Computing metrics for qwerty: 80%
+$Computing metrics for qwerty: 90%
+$Computing metrics for qwerty: 100%
+$ 
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\mkinst5...
+
+McCabe IQ version: 8.5.0 - 20161023
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\qwerty_inst\com\mccabe\Client.java
+$ 
+cli: Exporting C:\Users\xenil\Desktop\gp02-asa\qwerty_inst\com\mccabe\PathVec_qwerty.java
+cli: Export complete.
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for qwerty: 10%
+$Computing metrics for qwerty: 20%
+$Computing metrics for qwerty: 30%
+$Computing metrics for qwerty: 40%
+$Computing metrics for qwerty: 50%
+$Computing metrics for qwerty: 60%
+$Computing metrics for qwerty: 70%
+$Computing metrics for qwerty: 80%
+$Computing metrics for qwerty: 90%
+$Computing metrics for qwerty: 100%
+$ 
+$ 
+$ 
+$ 
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 15:04:34 Russia TZ 2 Standard Time
+
+
+cli: Processing program: qwerty
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\recolor...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for qwerty: 10%
+$Computing metrics for qwerty: 20%
+$Computing metrics for qwerty: 30%
+$Computing metrics for qwerty: 40%
+$Computing metrics for qwerty: 50%
+$Computing metrics for qwerty: 60%
+$Computing metrics for qwerty: 70%
+$Computing metrics for qwerty: 80%
+$Computing metrics for qwerty: 90%
+$Computing metrics for qwerty: 100%
+$ 
+$ 
+$ 
+McCabe IQ version: 8.5.0 - 20161023
+C:\McCabe\IQ\8.5\bin\cli.exe started on Date: Sun Mar 24 2019 15:12:01 Russia TZ 2 Standard Time
+
+
+cli: Processing program: gp02-asa
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\recolor...
+
+$ 
+$ 
+$RUNNING C:\McCabe\IQ\8.5\bin\metmng...
+
+McCabe IQ version: 8.5.0 - 20161023
+$Computing metrics for gp02-asa: 10%
+$Computing metrics for gp02-asa: 20%
+$Computing metrics for gp02-asa: 30%
+$Computing metrics for gp02-asa: 40%
+$Computing metrics for gp02-asa: 50%
+$Computing metrics for gp02-asa: 60%
+$Computing metrics for gp02-asa: 70%
+$Computing metrics for gp02-asa: 80%
+$Computing metrics for gp02-asa: 90%
+$Computing metrics for gp02-asa: 100%
+$ 
+$ 
+$ 

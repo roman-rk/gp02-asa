@@ -1,0 +1,18 @@
+PROGRAM gp02-asa
+INSTDIR C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst
+INSTOUT C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst\inst.out
+COMDIR C:\Users\xenil\Desktop\gp02-asa\gp02-asa_inst
+EXPORTTREE
+SCOPEINST
+DIR C:\Users\xenil\Desktop\gp02-asa\src\main\java\com\asa\
+NO_COVERAGE_SERVER
+cw_Java_inst ShapeClassifier.java  -PATHVEC -CLASS -MODSIG -HALSTEAD -PARAM -DATA -NOCLASSMSGS -OVERLOAD -MODE JDK1.7
+PROGRAM qwerty
+INSTDIR C:\Users\xenil\Desktop\gp02-asa\qwerty_inst
+INSTOUT C:\Users\xenil\Desktop\gp02-asa\qwerty_inst\inst.out
+COMDIR C:\Users\xenil\Desktop\gp02-asa\qwerty_inst
+EXPORTTREE
+SCOPEINST
+DIR C:\Users\xenil\Desktop\gp02-asa\src\test\java\com\asa\
+NO_COVERAGE_SERVER
+cw_Java_inst TestShapeClassifierTriple.java  -PATHVEC -CLASS -MODSIG -HALSTEAD -PARAM -DATA -NOCLASSMSGS -OVERLOAD -MODE JDK1.7

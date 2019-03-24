@@ -1,0 +1,205 @@
+0
+DIM 31
+BOX ShapeClassifier.ShapeClassifier() 2 1 1 0 0 1 0 0 0 0 0 
+BOX ShapeClassifier.calculateCirclePerimeter(int) 3 1 2 0 0 1 1 0 0 0 0 
+PARM r
+INFO 3 3 int
+BOX ShapeClassifier.calculateEllipsePerimeter(int,int) 4 1 3 0 0 1 2 1 0 0 0 
+PARM b
+INFO 3 3 int
+PARM a
+INFO 3 3 int
+LINE 0 0 0 0 27 3 2 1 0 0 0 0
+CALL 1
+PARM da
+INFO 3 3 double
+BOX ShapeClassifier.calculateRectanglePerimeter(int,int,int,int) 5 1 4 0 0 1 4 0 0 0 0 
+PARM side4
+INFO 3 3 int
+PARM side3
+INFO 3 3 int
+PARM side2
+INFO 3 3 int
+PARM side1
+INFO 3 3 int
+BOX ShapeClassifier.calculateSquarePerimeter(int) 6 1 5 0 0 1 1 0 0 0 0 
+PARM side
+INFO 3 3 int
+BOX ShapeClassifier.calculateTrianglePerimeter(int,int,int) 7 1 6 0 0 1 3 0 0 0 0 
+PARM side3
+INFO 3 3 int
+PARM side2
+INFO 3 3 int
+PARM side1
+INFO 3 3 int
+BOX ShapeClassifier.classify2Parameters(int,int) 8 1 7 0 0 1 2 0 0 0 0 
+PARM b
+INFO 3 3 int
+PARM a
+INFO 3 3 int
+BOX ShapeClassifier.classify3Parameters(int,int,int) 9 1 8 2 0 1 3 0 0 0 0 
+PARM c
+INFO 3 3 int
+PARM b
+INFO 3 3 int
+PARM a
+INFO 3 3 int
+BOX ShapeClassifier.classify4Parameters(int,int,int,int) 10 1 9 2 0 1 4 0 0 0 0 
+PARM d
+INFO 3 3 int
+PARM c
+INFO 3 3 int
+PARM b
+INFO 3 3 int
+PARM a
+INFO 3 3 int
+BOX ShapeClassifier.evaluateGuess(java.lang.String) 11 1 17 2 0 1 1 14 0 0 0 
+PARM arg
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 22 3 2 1 0 0 0 0
+CALL 1
+PARM arg
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 23 3 2 1 0 0 0 0
+CALL 1
+PARM arg
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 24 3 2 1 0 0 0 0
+CALL 1
+PARM arg
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 21 3 2 1 0 0 0 0
+CALL 1
+PARM arg
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 28 3 2 7 0 0 0 0
+CALL 1
+PARM "Line"
+INFO 3 3 java.lang.String
+CALL 1
+PARM "Ellipse"
+INFO 3 3 java.lang.String
+CALL 1
+PARM shapeGuess
+INFO 3 3 java.lang.String
+CALL 1
+PARM "Large"
+INFO 3 3 java.lang.String
+CALL 1
+PARM "Small"
+INFO 3 3 java.lang.String
+CALL 1
+PARM "Yes"
+INFO 3 3 java.lang.String
+CALL 1
+PARM "No"
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 18 2 2 1 0 0 0 0
+CALL 2
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 15 2 2 1 0 0 0 0
+CALL 2
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 14 2 2 1 0 0 0 0
+CALL 1
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 19 2 2 1 0 0 0 0
+CALL 3
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+PARM parameters[2]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 17 2 2 1 0 0 0 0
+CALL 3
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+PARM parameters[2]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 20 2 2 1 0 0 0 0
+CALL 4
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+PARM parameters[2]
+INFO 3 3 java.lang.Integer
+PARM parameters[3]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 16 2 2 1 0 0 0 0
+CALL 4
+PARM parameters[0]
+INFO 3 3 java.lang.Integer
+PARM parameters[1]
+INFO 3 3 java.lang.Integer
+PARM parameters[2]
+INFO 3 3 java.lang.Integer
+PARM parameters[3]
+INFO 3 3 java.lang.Integer
+LINE 0 0 0 0 25 2 2 1 0 0 0 0
+CALL 1
+PARM "Bad guess limit Exceeded"
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 30 2 2 1 0 0 0 0
+CALL 1
+PARM 1
+INFO 3 3 int
+BOX ShapeClassifier.getEvenOddGuess(java.lang.String) 12 1 24 0 0 1 1 1 0 0 0 
+PARM args
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 29 3 2 1 0 0 0 0
+CALL 1
+PARM ","
+INFO 3 3 java.lang.String
+BOX ShapeClassifier.getParams(java.lang.String) 13 1 25 0 0 1 1 2 0 0 0 
+PARM args
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 29 3 2 1 0 0 0 0
+CALL 1
+PARM ","
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 26 1 2 1 0 0 0 0
+CALL 1
+PARM params[i]
+INFO 3 3 java.lang.String
+BOX ShapeClassifier.getShapeGuess(java.lang.String) 14 1 26 0 0 1 1 1 0 0 0 
+PARM args
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 29 3 2 1 0 0 0 0
+CALL 1
+PARM ","
+INFO 3 3 java.lang.String
+BOX ShapeClassifier.getSizeGuess(java.lang.String) 15 1 27 0 0 1 1 1 0 0 0 
+PARM args
+INFO 3 3 java.lang.String
+LINE 0 0 0 0 29 3 2 1 0 0 0 0
+CALL 1
+PARM ","
+INFO 3 3 java.lang.String
+BOX calculateCirclePerimeter 24 2 17 0 0 2 0 0 0 0 0 
+BOX calculateEllipsePerimeter 23 2 16 0 0 2 0 0 0 0 0 
+BOX calculateRectanglePerimeter 28 2 21 0 0 2 0 0 0 0 0 
+BOX calculateTrianglePerimeter 26 2 19 0 0 2 0 0 0 0 0 
+BOX classify2Parameters 22 2 15 0 0 2 0 0 0 0 0 
+BOX classify3Parameters 25 2 18 0 0 2 0 0 0 0 0 
+BOX classify4Parameters 27 2 20 0 0 2 0 0 0 0 0 
+BOX getEvenOddGuess 20 2 13 0 0 2 0 0 0 0 0 
+BOX getParams 17 2 10 0 0 2 0 0 0 0 0 
+BOX getShapeGuess 18 2 11 0 0 2 0 0 0 0 0 
+BOX getSizeGuess 19 2 12 0 0 2 0 0 0 0 0 
+BOX java.io.PrintStream.println(java.lang.String) 29 2 22 0 0 2 0 0 0 0 0 
+BOX java.lang.Integer.parseInt(java.lang.String) 32 2 25 0 0 2 0 0 0 0 0 
+BOX java.lang.Math.sqrt(double) 16 2 3 0 0 2 0 0 0 0 0 
+BOX java.lang.String.equals(java.lang.Object) 21 2 14 0 0 2 0 0 0 0 0 
+BOX java.lang.String.split(java.lang.String) 31 2 24 0 0 2 0 0 0 0 0 
+BOX java.lang.System.exit(int) 30 2 23 0 0 2 0 0 0 0 0 

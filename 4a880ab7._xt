@@ -1,0 +1,39 @@
+0
+DIM 1
+BOX ShapeClassifier 2 1 1 0 0 5 18 0 0 0 -1 
+PARM ShapeClassifier.classify3Parameters(int,int,int)
+INFO 4 5
+PARM ShapeClassifier.classify4Parameters(int,int,int,int)
+INFO 4 5
+PARM ShapeClassifier.classify2Parameters(int,int)
+INFO 4 5
+PARM ShapeClassifier.getShapeGuess(java.lang.String)
+INFO 4 5
+PARM ShapeClassifier.getSizeGuess(java.lang.String)
+INFO 4 5
+PARM ShapeClassifier.getEvenOddGuess(java.lang.String)
+INFO 4 5
+PARM ShapeClassifier.getParams(java.lang.String)
+INFO 4 5
+PARM ShapeClassifier.calculateEllipsePerimeter(int,int)
+INFO 4 5
+PARM ShapeClassifier.calculateTrianglePerimeter(int,int,int)
+INFO 4 5
+PARM ShapeClassifier.calculateRectanglePerimeter(int,int,int,int)
+INFO 4 5
+PARM ShapeClassifier.calculateSquarePerimeter(int)
+INFO 4 5
+PARM ShapeClassifier.calculateCirclePerimeter(int)
+INFO 4 5
+PARM ShapeClassifier.evaluateGuess(java.lang.String)
+INFO 6 5
+PARM ShapeClassifier.ShapeClassifier()
+INFO 6 5
+PARM ShapeClassifier.twoParamGuesses
+INFO 4 4  java.lang.String
+PARM ShapeClassifier.fourParamGuesses
+INFO 4 4  java.lang.String
+PARM ShapeClassifier.threeParamGuesses
+INFO 4 4  java.lang.String
+PARM ShapeClassifier.badGuesses
+INFO 4 4  int

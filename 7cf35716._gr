@@ -1,0 +1,839 @@
+4
+ShapeClassifier.ShapeClassifier()
+9 1 0 0
+1 TRUE
+9 1 0 0
+2 TRUE
+10 1 0 0
+3 TRUE
+11 0 0 0
+202
+ShapeClassifier.evaluateGuess(java.lang.String)
+14 1 0 0
+1 TRUE
+14 1 0 0
+2 TRUE
+16 1 0 0
+3 TRUE
+16 1 0 0
+4 TRUE
+17 1 0 0
+5 TRUE
+17 1 0 0
+6 TRUE
+17 1 0 0
+7 TRUE
+17 1 0 1
+getParams
+8 TRUE
+17 1 0 0
+9 TRUE
+18 1 0 0
+10 TRUE
+18 1 0 0
+11 TRUE
+18 1 0 0
+12 TRUE
+18 1 0 1
+getShapeGuess
+13 TRUE
+18 1 0 0
+14 TRUE
+19 1 0 0
+15 TRUE
+19 1 0 0
+16 TRUE
+19 1 0 0
+17 TRUE
+19 1 0 1
+getSizeGuess
+18 TRUE
+19 1 0 0
+19 TRUE
+20 1 0 0
+20 TRUE
+20 1 0 0
+21 TRUE
+20 1 0 0
+22 TRUE
+20 1 0 1
+getEvenOddGuess
+23 TRUE
+20 1 0 0
+24 TRUE
+22 1 0 0
+25 TRUE
+22 1 0 0
+26 TRUE
+24 2 1 0
+shapeGuess == null
+27 TRUE
+28 FALSE
+25 1 0 0
+28 TRUE
+25 1 0 0
+29 TRUE
+27 2 1 0
+sizeGuess == null
+30 TRUE
+31 FALSE
+28 1 0 0
+31 TRUE
+28 1 0 0
+32 TRUE
+30 2 1 0
+evenOddGuess == null
+33 TRUE
+34 FALSE
+31 1 0 0
+34 TRUE
+31 1 0 0
+35 TRUE
+34 5 1 0
+parameters . length
+36 1
+46 2
+72 3
+83 4
+94 <DEFAULT>
+36 1 0 0
+37 TRUE
+36 1 0 0
+38 TRUE
+36 1 0 1
+java.lang.String.equals(java.lang.Object)
+39 TRUE
+36 2 1 0
+shapeGuess . equals  ( "Line" )
+40 TRUE
+44 FALSE
+36 1 0 0
+41 TRUE
+37 1 0 0
+42 TRUE
+38 1 0 0
+43 TRUE
+39 1 0 0
+44 TRUE
+39 1 0 0
+45 TRUE
+40 1 0 0
+97 TRUE
+42 1 0 0
+47 TRUE
+42 1 0 0
+48 TRUE
+42 1 0 0
+49 TRUE
+42 1 0 1
+classify2Parameters
+50 TRUE
+42 1 0 0
+51 TRUE
+43 1 0 0
+52 TRUE
+43 1 0 0
+53 TRUE
+43 1 0 1
+java.lang.String.equals(java.lang.Object)
+54 TRUE
+43 2 1 0
+shapeGuessResult . equals  ( "Ellipse" )
+55 TRUE
+62 FALSE
+43 1 0 0
+56 TRUE
+44 1 0 0
+57 TRUE
+44 1 0 0
+58 TRUE
+44 1 0 0
+59 TRUE
+44 1 0 1
+calculateEllipsePerimeter
+60 TRUE
+44 1 0 0
+61 TRUE
+45 1 0 0
+70 TRUE
+45 1 0 0
+63 TRUE
+45 1 0 0
+64 TRUE
+46 1 0 0
+65 TRUE
+46 1 0 0
+66 TRUE
+46 1 0 0
+67 TRUE
+46 1 0 1
+calculateCirclePerimeter
+68 TRUE
+46 1 0 0
+69 TRUE
+47 1 0 0
+70 TRUE
+47 1 0 0
+71 TRUE
+48 1 0 0
+97 TRUE
+50 1 0 0
+73 TRUE
+50 1 0 0
+74 TRUE
+50 1 0 0
+75 TRUE
+50 1 0 1
+classify3Parameters
+76 TRUE
+50 1 0 0
+77 TRUE
+51 1 0 0
+78 TRUE
+51 1 0 0
+79 TRUE
+51 1 0 0
+80 TRUE
+51 1 0 1
+calculateTrianglePerimeter
+81 TRUE
+51 1 0 0
+82 TRUE
+52 1 0 0
+97 TRUE
+54 1 0 0
+84 TRUE
+54 1 0 0
+85 TRUE
+54 1 0 0
+86 TRUE
+54 1 0 1
+classify4Parameters
+87 TRUE
+54 1 0 0
+88 TRUE
+55 1 0 0
+89 TRUE
+55 1 0 0
+90 TRUE
+55 1 0 0
+91 TRUE
+55 1 0 1
+calculateRectanglePerimeter
+92 TRUE
+55 1 0 0
+93 TRUE
+55 1 0 0
+94 TRUE
+56 1 0 0
+95 TRUE
+56 1 0 0
+96 TRUE
+56 1 0 0
+97 TRUE
+56 1 0 0
+98 TRUE
+58 1 0 0
+99 TRUE
+58 1 0 0
+100 TRUE
+59 1 0 0
+101 TRUE
+59 1 0 0
+102 TRUE
+60 1 0 0
+103 TRUE
+60 1 0 0
+104 TRUE
+63 1 0 0
+105 TRUE
+63 1 0 0
+106 TRUE
+63 1 0 1
+java.lang.String.equals(java.lang.Object)
+107 TRUE
+63 2 1 0
+shapeGuessResult . equals  ( shapeGuess )
+108 TRUE
+109 FALSE
+64 1 0 0
+111 TRUE
+65 1 0 0
+110 TRUE
+66 1 0 0
+111 TRUE
+66 1 0 0
+112 TRUE
+70 2 1 0
+calcPerim > 100
+113 TRUE
+120 FALSE
+70 1 0 0
+114 TRUE
+70 1 0 0
+115 TRUE
+70 1 0 1
+java.lang.String.equals(java.lang.Object)
+116 TRUE
+70 2 1 0
+sizeGuess . equals  ( "Large" )
+117 TRUE
+120 FALSE
+70 1 0 0
+118 TRUE
+71 1 0 0
+119 TRUE
+72 1 0 0
+134 TRUE
+73 1 0 0
+121 TRUE
+73 2 1 0
+calcPerim <= 100
+122 TRUE
+129 FALSE
+73 1 0 0
+123 TRUE
+73 1 0 0
+124 TRUE
+73 1 0 1
+java.lang.String.equals(java.lang.Object)
+125 TRUE
+73 2 1 0
+sizeGuess . equals  ( "Small" )
+126 TRUE
+129 FALSE
+73 1 0 0
+127 TRUE
+74 1 0 0
+128 TRUE
+75 1 0 0
+133 TRUE
+75 1 0 0
+130 TRUE
+75 1 0 0
+131 TRUE
+76 1 0 0
+132 TRUE
+77 1 0 0
+133 TRUE
+77 1 0 0
+134 TRUE
+77 1 0 0
+135 TRUE
+79 1 0 0
+136 TRUE
+79 1 0 0
+137 TRUE
+80 2 1 0
+param : parameters
+138 TRUE
+142 FALSE
+80 1 0 0
+139 TRUE
+81 1 0 0
+140 TRUE
+82 1 0 0
+141 TRUE
+82 1 0 0
+137 TRUE
+82 1 0 0
+143 TRUE
+83 1 0 0
+144 TRUE
+83 1 0 0
+145 TRUE
+85 1 0 0
+146 TRUE
+85 2 1 0
+evenGuessResult  
+147 TRUE
+154 FALSE
+85 1 0 0
+148 TRUE
+85 1 0 0
+149 TRUE
+85 1 0 1
+java.lang.String.equals(java.lang.Object)
+150 TRUE
+85 2 1 0
+evenOddGuess . equals  ( "Yes" )
+151 TRUE
+154 FALSE
+85 1 0 0
+152 TRUE
+86 1 0 0
+153 TRUE
+87 1 0 0
+169 TRUE
+87 1 0 0
+155 TRUE
+87 1 0 0
+156 TRUE
+87 2 1 0
+! evenGuessResult
+157 TRUE
+164 FALSE
+87 1 0 0
+158 TRUE
+87 1 0 0
+159 TRUE
+87 1 0 1
+java.lang.String.equals(java.lang.Object)
+160 TRUE
+87 2 1 0
+evenOddGuess . equals  ( "No" )
+161 TRUE
+164 FALSE
+87 1 0 0
+162 TRUE
+88 1 0 0
+163 TRUE
+89 1 0 0
+168 TRUE
+89 1 0 0
+165 TRUE
+89 1 0 0
+166 TRUE
+90 1 0 0
+167 TRUE
+91 1 0 0
+168 TRUE
+91 1 0 0
+169 TRUE
+91 1 0 0
+170 TRUE
+93 1 0 0
+171 TRUE
+93 2 1 0
+isShapeGuessCorrect  
+172 TRUE
+181 FALSE
+93 1 0 0
+173 TRUE
+93 2 1 0
+isSizeGuessCorrect  
+174 TRUE
+181 FALSE
+93 1 0 0
+175 TRUE
+93 2 1 0
+isEvenOddCorrect  
+176 TRUE
+181 FALSE
+93 1 0 0
+177 TRUE
+94 1 0 0
+178 TRUE
+95 1 0 0
+179 TRUE
+95 1 0 0
+201 TRUE
+96 1 0 0
+200 TRUE
+96 1 0 0
+182 TRUE
+96 1 0 0
+183 TRUE
+98 1 0 0
+184 TRUE
+98 1 0 0
+185 TRUE
+99 2 1 0
+badGuesses >= 3
+186 TRUE
+196 FALSE
+99 1 0 0
+187 TRUE
+100 1 0 0
+188 TRUE
+100 1 0 0
+189 TRUE
+100 1 0 1
+java.io.PrintStream.println(java.lang.String)
+190 TRUE
+100 1 0 0
+191 TRUE
+101 1 0 0
+192 TRUE
+101 1 0 0
+193 TRUE
+101 1 0 1
+java.lang.System.exit(int)
+194 TRUE
+101 1 0 0
+195 TRUE
+102 1 0 0
+196 TRUE
+102 1 0 0
+197 TRUE
+103 1 0 0
+198 TRUE
+103 1 0 0
+201 TRUE
+104 1 0 0
+200 TRUE
+104 1 0 0
+201 TRUE
+105 0 0 0
+5
+ShapeClassifier.calculateCirclePerimeter(int)
+108 1 0 0
+1 TRUE
+108 1 0 0
+2 TRUE
+109 1 0 0
+3 TRUE
+109 1 0 0
+4 TRUE
+110 0 0 0
+5
+ShapeClassifier.calculateSquarePerimeter(int)
+113 1 0 0
+1 TRUE
+113 1 0 0
+2 TRUE
+114 1 0 0
+3 TRUE
+114 1 0 0
+4 TRUE
+115 0 0 0
+5
+ShapeClassifier.calculateRectanglePerimeter(int,int,int,int)
+119 1 0 0
+1 TRUE
+119 1 0 0
+2 TRUE
+120 1 0 0
+3 TRUE
+120 1 0 0
+4 TRUE
+121 0 0 0
+5
+ShapeClassifier.calculateTrianglePerimeter(int,int,int)
+124 1 0 0
+1 TRUE
+124 1 0 0
+2 TRUE
+125 1 0 0
+3 TRUE
+125 1 0 0
+4 TRUE
+126 0 0 0
+13
+ShapeClassifier.calculateEllipsePerimeter(int,int)
+130 1 0 0
+1 TRUE
+130 1 0 0
+2 TRUE
+131 1 0 0
+3 TRUE
+131 1 0 0
+4 TRUE
+131 1 0 0
+5 TRUE
+131 1 0 0
+6 TRUE
+133 1 0 0
+7 TRUE
+133 1 0 0
+8 TRUE
+133 1 0 0
+9 TRUE
+133 1 0 1
+java.lang.Math.sqrt(double)
+10 TRUE
+133 1 0 0
+11 TRUE
+133 1 0 0
+12 TRUE
+135 0 0 0
+27
+ShapeClassifier.getParams(java.lang.String)
+138 1 0 0
+1 TRUE
+138 1 0 0
+2 TRUE
+139 1 0 0
+3 TRUE
+139 1 0 0
+4 TRUE
+139 1 0 0
+5 TRUE
+139 1 0 1
+java.lang.String.split(java.lang.String)
+6 TRUE
+139 1 0 0
+7 TRUE
+140 1 0 0
+8 TRUE
+140 1 0 0
+9 TRUE
+142 1 0 0
+10 TRUE
+143 1 0 0
+11 TRUE
+143 1 0 0
+12 TRUE
+143 2 1 0
+i < params . length
+13 TRUE
+23 FALSE
+143 1 0 0
+14 TRUE
+144 1 0 0
+15 TRUE
+144 1 0 0
+16 TRUE
+144 1 0 0
+17 TRUE
+144 1 0 1
+java.lang.Integer.parseInt(java.lang.String)
+18 TRUE
+144 1 0 0
+19 TRUE
+145 1 0 0
+20 TRUE
+143 1 0 0
+21 TRUE
+143 1 0 0
+22 TRUE
+143 1 0 0
+12 TRUE
+143 1 0 0
+24 TRUE
+146 1 0 0
+25 TRUE
+146 1 0 0
+26 TRUE
+147 0 0 0
+10
+ShapeClassifier.getEvenOddGuess(java.lang.String)
+150 1 0 0
+1 TRUE
+150 1 0 0
+2 TRUE
+151 1 0 0
+3 TRUE
+151 1 0 0
+4 TRUE
+151 1 0 0
+5 TRUE
+151 1 0 1
+java.lang.String.split(java.lang.String)
+6 TRUE
+151 1 0 0
+7 TRUE
+152 1 0 0
+8 TRUE
+152 1 0 0
+9 TRUE
+153 0 0 0
+10
+ShapeClassifier.getSizeGuess(java.lang.String)
+156 1 0 0
+1 TRUE
+156 1 0 0
+2 TRUE
+157 1 0 0
+3 TRUE
+157 1 0 0
+4 TRUE
+157 1 0 0
+5 TRUE
+157 1 0 1
+java.lang.String.split(java.lang.String)
+6 TRUE
+157 1 0 0
+7 TRUE
+158 1 0 0
+8 TRUE
+158 1 0 0
+9 TRUE
+159 0 0 0
+10
+ShapeClassifier.getShapeGuess(java.lang.String)
+162 1 0 0
+1 TRUE
+162 1 0 0
+2 TRUE
+163 1 0 0
+3 TRUE
+163 1 0 0
+4 TRUE
+163 1 0 0
+5 TRUE
+163 1 0 1
+java.lang.String.split(java.lang.String)
+6 TRUE
+163 1 0 0
+7 TRUE
+164 1 0 0
+8 TRUE
+164 1 0 0
+9 TRUE
+165 0 0 0
+14
+ShapeClassifier.classify2Parameters(int,int)
+168 1 0 0
+1 TRUE
+168 1 0 0
+2 TRUE
+169 2 1 0
+a == b
+3 TRUE
+7 FALSE
+169 1 0 0
+4 TRUE
+170 1 0 0
+5 TRUE
+170 1 0 0
+13 TRUE
+171 1 0 0
+12 TRUE
+171 1 0 0
+8 TRUE
+171 1 0 0
+9 TRUE
+172 1 0 0
+10 TRUE
+172 1 0 0
+13 TRUE
+173 1 0 0
+12 TRUE
+173 1 0 0
+13 TRUE
+174 0 0 0
+21
+ShapeClassifier.classify4Parameters(int,int,int,int)
+177 1 0 0
+1 TRUE
+177 1 0 0
+2 TRUE
+180 2 1 0
+a == b
+3 TRUE
+9 FALSE
+180 2 1 0
+b == c
+4 TRUE
+9 FALSE
+180 2 1 0
+c == d
+5 TRUE
+9 FALSE
+180 1 0 0
+6 TRUE
+181 1 0 0
+7 TRUE
+181 1 0 0
+20 TRUE
+182 1 0 0
+17 TRUE
+182 1 0 0
+10 TRUE
+182 2 1 0
+a == c
+11 TRUE
+16 FALSE
+182 2 1 0
+b == d
+12 TRUE
+16 FALSE
+182 1 0 0
+13 TRUE
+183 1 0 0
+14 TRUE
+183 1 0 0
+20 TRUE
+184 1 0 0
+16 TRUE
+184 1 0 0
+17 TRUE
+184 1 0 0
+18 TRUE
+185 1 0 0
+19 TRUE
+185 1 0 0
+20 TRUE
+186 0 0 0
+32
+ShapeClassifier.classify3Parameters(int,int,int)
+189 1 0 0
+1 TRUE
+189 1 0 0
+2 TRUE
+191 2 1 0
+( a < ( b + c ) )
+3 TRUE
+28 FALSE
+191 2 1 0
+( b < ( a + c ) )
+4 TRUE
+28 FALSE
+191 2 1 0
+( c < ( a + b ) )
+5 TRUE
+28 FALSE
+191 1 0 0
+6 TRUE
+192 2 1 0
+a == b
+7 TRUE
+12 FALSE
+192 2 1 0
+b == c
+8 TRUE
+12 FALSE
+192 1 0 0
+9 TRUE
+193 1 0 0
+10 TRUE
+193 1 0 0
+31 TRUE
+194 1 0 0
+26 TRUE
+194 1 0 0
+13 TRUE
+194 2 1 0
+a == b
+14 FALSE
+16 TRUE
+194 2 1 0
+b == c
+15 FALSE
+16 TRUE
+194 2 1 0
+c == a
+16 TRUE
+20 FALSE
+194 1 0 0
+17 TRUE
+195 1 0 0
+18 TRUE
+195 1 0 0
+31 TRUE
+196 1 0 0
+25 TRUE
+196 1 0 0
+21 TRUE
+196 1 0 0
+22 TRUE
+197 1 0 0
+23 TRUE
+197 1 0 0
+31 TRUE
+198 1 0 0
+25 TRUE
+198 1 0 0
+26 TRUE
+198 1 0 0
+27 TRUE
+199 1 0 0
+28 TRUE
+199 1 0 0
+29 TRUE
+200 1 0 0
+30 TRUE
+200 1 0 0
+31 TRUE
+201 0 0 0
