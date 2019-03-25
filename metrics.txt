@@ -1,0 +1,27 @@
+Page 1  03/24/19                                                               
+                              Branch Count Metrics
+
+Program: gp02-asa
+                   Module Name                     # Branches 
+-------------------------------------------------- ---------- 
+ShapeClassifier.evaluateGuess(java.lang.String)            44
+ShapeClassifier.classify3Parameters(int,int,int)           17
+ShapeClassifier.classify4Parameters(int,int,int,in         11
+t)                                                           
+ShapeClassifier.classify2Parameters(int,int)                3
+ShapeClassifier.getParams(java.lang.String)                 3
+ShapeClassifier.calculateTrianglePerimeter(int,int          1
+,int)                                                        
+ShapeClassifier.calculateEllipsePerimeter(int,int)          1
+ShapeClassifier.calculateRectanglePerimeter(int,in          1
+t,int,int)                                                   
+ShapeClassifier.getEvenOddGuess(java.lang.String)           1
+ShapeClassifier.getSizeGuess(java.lang.String)              1
+ShapeClassifier.getShapeGuess(java.lang.String)             1
+ShapeClassifier.calculateSquarePerimeter(int)               1
+ShapeClassifier.calculateCirclePerimeter(int)               1
+ShapeClassifier.ShapeClassifier()                           1
+-------------------------------------------------- ---------- 
+Total:                                                     87 
+Average:                                                 6.21 
+Rows in Report: 14 
